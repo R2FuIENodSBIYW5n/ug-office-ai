@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ug-office": {
+      "command": "wsl.exe",
+      "args": [
+        "bash", "-lc",
+        "cd /home/hgun77/code/ug/ug-office-ai/mcp && MCP_TRANSPORT=stdio UG_OFFICE_URL=https://www.ugoffice.com UG_USERNAME='YOUR_USERNAME' UG_PASSWORD='YOUR_PASSWORD' UG_WEB_URL=https://www.ugoffice.com uv run ug-office-mcp"
+      ]
+    }
+  }
+}

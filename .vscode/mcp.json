@@ -1,0 +1,20 @@
+{
+  "servers": {
+    "ug-office": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/home/hgun77/code/ug/ug-office-ai/mcp",
+        "ug-office-mcp"
+      ],
+      "env": {
+        "MCP_TRANSPORT": "stdio",
+        "UG_OFFICE_URL": "https://api.ugoffice.com",
+        "UG_USERNAME": "alpha",
+        "UG_PASSWORD": "*25eJe^au8Fw^cx1p^29",
+        "UG_WEB_URL": "https://www.ugoffice.com"
+      }
+    }
+  }
+}

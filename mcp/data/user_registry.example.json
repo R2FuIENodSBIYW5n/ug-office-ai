@@ -1,0 +1,18 @@
+{
+  "users": {
+    "alice": {
+      "mcp_password": "CHANGE_ME",
+      "ug_username": "alice_operator",
+      "ug_password": "CHANGE_ME",
+      "ug_office_url": "https://www.ugoffice.com",
+      "ug_web_url": "https://www.ugoffice.com"
+    },
+    "bob": {
+      "mcp_password": "CHANGE_ME",
+      "ug_username": "bob_admin",
+      "ug_password": "CHANGE_ME",
+      "ug_office_url": "https://www.ugoffice.com",
+      "ug_web_url": "https://www.ugoffice.com"
+    }
+  }
+}
